@@ -1,0 +1,9 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'es-es'
+title = 'Practicando con Hugo'
+theme = ["themes/hello-friend-ng"]
+
+
+
+
+
