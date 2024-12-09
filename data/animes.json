@@ -1,0 +1,25 @@
+{
+    "animes": [
+        {
+            "title": "Rurouni Kenshin",
+            "episodes_watched": 95,
+            "status": "Complete",
+            "started": "1996-01-10",
+            "finished": "1998-09-08"
+        },
+        {
+            "title": "Sailor Moon",
+            "episodes_watched": 200,
+            "status": "Complete",
+            "started": "1992-03-07",
+            "finished": "1997-02-08"
+        },
+        {
+            "title": "Naruto",
+            "episodes_watched": 220,
+            "status": "Complete",
+            "started": "2005-09-10",
+            "finished": "2007-02-08"
+        }
+    ]
+  }

@@ -1,0 +1,16 @@
+{{ define "main" }}
+
+{{ $animes := .Site.Data.animes.animes }}
+
+<ul>
+  {{ range $animes }}
+    <li>
+      <h2>{{ .title }}</h2>
+      <p>Episodios vistos: {{ .episodes_watched }}</p>
+      <p>Estado: {{ .status }}</p>
+      <p>Comenzado: {{ .started }}</p>
+      <p>Finalizado: {{ .finished }}</p>
+    </li>
+  {{ end }}
+</ul>
+{{ end }}

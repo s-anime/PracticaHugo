@@ -8,19 +8,23 @@ title = 'Hobbies'
 
 Siempre he sentido una profunda conexión con la naturaleza. Me encanta explorar senderos, sentir el aire fresco en la montaña, y perderme en los sonidos de los pájaros. La naturaleza me da paz, me inspira y me recuerda lo hermoso que es el mundo. Ya sea caminando por un bosque o simplemente sentándome en un parque, siempre encuentro algo nuevo que me llena de energía.
 
-![Selva de Irati](/Naturaleza.png 'Seva de Irati')
+
+![Selva de Irati](/Images/Naturaleza.jpg 'Selva de Irati')
 
 **El Anime: Mi Universo Creativo**
 
-Otra de mis pasiones es el anime. Me fascina cómo estas historias animadas logran transportarnos a mundos llenos de emociones, personajes únicos y tramas profundas. Algunos de mis animes favoritos me han enseñado valiosas lecciones de vida, además de inspirar mi creatividad. No importa si es un shōnen lleno de acción o un slice-of-life relajante, siempre encuentro algo que me atrapa.
+Otra de mis pasiones es el anime. Me fascina cómo estas historias animadas logran transportarnos a mundos llenos de emociones, personajes únicos y tramas profundas. Algunos de mis animes favoritos me han enseñado valiosas lecciones de vida, además de inspirar mi creatividad. No importa si es un shōnen lleno de acción o un slice-of-life relajante, siempre encuentro algo que me atrapa. 
 
-![Anime](/Anime.png 'Anime')
+[Aquí te muestro mis animes favoritos](/animes/)
+
+
+![Anime](/Images/Anime.jpg 'Anime')
 
 **Restaurar Muebles: Transformar lo Viejo en Nuevo**
 
 Además, disfruto mucho restaurar muebles antiguos. Hay algo mágico en tomar un objeto desgastado por el tiempo y devolverle su antigua gloria (o incluso transformarlo en algo completamente nuevo). Es un hobby que combina creatividad, paciencia y un poco de habilidad manual. Cada pieza tiene su historia, y me encanta ser parte de su renovación.
 
-![Muebles](/Muebles.png 'Muebles')
+![Muebles](/Images/Muebles.png 'Muebles')
 
 
 **¿Por qué estos hobbies?**

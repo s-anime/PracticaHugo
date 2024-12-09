@@ -14,6 +14,11 @@ title = 'Presentación'
 
 Nací y crecí en Zaragoza, una ciudad con la imponente Basílica del Pilar, deliciosas tapas, y un ambiente acogedor. Adoro pasear por el Ebro al atardecer y perderme por las calles del casco histórico.
 
+![El Pilar](/Images/ElPilar.jpg 'El Pilar')
+
 **¿Qué me apasiona?**
 
 Aunque mi formación inicial no está relacionada con la tecnología, siempre me ha encantado aprender cosas nuevas. El año pasado decidí dar un giro a mi carrera y entrar en el emocionante mundo de la programación. Me apasiona crear cosas desde cero y ver cómo mis ideas cobran vida en una pantalla.
+
+{{< imagenes-dos-columnas src1="/Images/Tapas.jpg" alt1="Tapas" src2="/Images/DesarrolloWeb.jpg" alt2="Desarrollo Web" >}}
+
