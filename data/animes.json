@@ -1,6 +1,7 @@
 {
     "animes": [
         {
+            "portada": "/Images/Rurouni.jpg",
             "title": "Rurouni Kenshin",
             "episodes_watched": 95,
             "status": "Complete",
@@ -8,6 +9,7 @@
             "finished": "1998-09-08"
         },
         {
+            "portada": "/Images/SailorMoon.jpg",
             "title": "Sailor Moon",
             "episodes_watched": 200,
             "status": "Complete",
@@ -15,6 +17,7 @@
             "finished": "1997-02-08"
         },
         {
+            "portada": "/Images/Naruto.jpg",
             "title": "Naruto",
             "episodes_watched": 220,
             "status": "Complete",

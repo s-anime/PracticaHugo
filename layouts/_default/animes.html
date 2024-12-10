@@ -2,15 +2,31 @@
 
 {{ $animes := .Site.Data.animes.animes }}
 
-<ul>
-  {{ range $animes }}
-    <li>
-      <h2>{{ .title }}</h2>
-      <p>Episodios vistos: {{ .episodes_watched }}</p>
-      <p>Estado: {{ .status }}</p>
-      <p>Comenzado: {{ .started }}</p>
-      <p>Finalizado: {{ .finished }}</p>
-    </li>
-  {{ end }}
-</ul>
+<table border="3" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Portada</th>
+      <th>Título</th>
+      <th>Episodios Vistos</th>
+      <th>Estado</th>
+      <th>Comenzado</th>
+      <th>Finalizado</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{ range $animes }}
+    <tr>
+      <td>
+        <img src="{{ .portada | safeURL }}" alt="{{ .title }}" style="width: 100px; height: auto;">
+      </td>
+      <td>{{ .title }}</td>
+      <td>{{ .episodes_watched }}</td>
+      <td>{{ .status }}</td>
+      <td>{{ .started }}</td>
+      <td>{{ .finished }}</td>
+    </tr>
+    {{ end }}
+  </tbody>
+</table>
+
 {{ end }}
