@@ -81,8 +81,8 @@ Encabezado Nivel 1 Encabezado Nivel 2 Encabezado Nivel 3 Encabezado Nivel 4 List
         <body>
     
     
-    <div class="container">
-        <header class="header">
+        <div class="container">
+            <header class="header">
     <span class="header__inner">
         <a href="/" style="text-decoration: none;">
     <button style="padding: 10px 20px; color: #888; border: none; border-radius: 5px; cursor: pointer;">
@@ -119,8 +119,8 @@ Encabezado Nivel 1 Encabezado Nivel 2 Encabezado Nivel 3 Encabezado Nivel 4 List
 </header>
 
 
-        <div class="content">
-            
+            <div class="content">
+                
     <main class="post">
 
         <div class="post-info">
@@ -236,18 +236,18 @@ También se puede añadir un título alternativo entrecomillándolo al final de 
   		</div>
     </main>
 
-        </div>
+            </div>
 
-        
-            <footer class="footer">
+            
+                <footer class="footer">
     
     
 </footer>
 
-        
-    </div>
+            
+        </div>
 
-    
+        
 
 
 
@@ -256,36 +256,5 @@ También se puede añadir un título alternativo entrecomillándolo al final de 
 
 
 
-
-    
-    <script>
-        
-        document.getElementById('mostrar-animes-link').addEventListener('click', function(event) {
-            event.preventDefault(); 
-            const animesDiv = document.getElementById('mostrar-animes');
-            const animesData = "{\"animes\":[{\"episodes_watched\":95,\"finished\":\"1998-09-08\",\"started\":\"1996-01-10\",\"status\":\"Complete\",\"title\":\"Rurouni Kenshin\"},{\"episodes_watched\":200,\"finished\":\"1997-02-08\",\"started\":\"1992-03-07\",\"status\":\"Complete\",\"title\":\"Sailor Moon\"},{\"episodes_watched\":220,\"finished\":\"2007-02-08\",\"started\":\"2005-09-10\",\"status\":\"Complete\",\"title\":\"Naruto\"}]}"; 
-
-            
-            animesDiv.innerHTML = '';
-
-            
-            const ul = document.createElement('ul');
-
-            
-            animesData.animes.forEach(function(anime) {
-                const li = document.createElement('li');
-                li.innerHTML = `<h3>${anime.title}</h3><p>Episodios vistos: ${anime.episodes_watched}</p><p>Estado: ${anime.status}</p><p>Comenzado: ${anime.started}</p><p>Finalizado: ${anime.finished}</p>`;
-                ul.appendChild(li);
-            });
-
-            
-            animesDiv.appendChild(ul);
-
-            
-            animesDiv.style.display = 'block';
-        });
-    </script>
-    
     </body>
 </html>
-
