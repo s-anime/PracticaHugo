@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/animes/</loc>
+    <loc>http://localhost:1313/PracticaHugo/animes/</loc>
     <lastmod>2024-12-09T20:35:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/animes/animes/</loc>
+    <loc>http://localhost:1313/PracticaHugo/animes/animes/</loc>
     <lastmod>2024-12-09T20:35:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/PracticaHugo/</loc>
     <lastmod>2024-12-09T20:35:37+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown/caracteristicas/</loc>
+    <loc>http://localhost:1313/PracticaHugo/markdown/caracteristicas/</loc>
     <lastmod>2024-12-09T16:14:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown/</loc>
+    <loc>http://localhost:1313/PracticaHugo/markdown/</loc>
     <lastmod>2024-12-09T16:14:35+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/markdown/sintaxis/</loc>
+    <loc>http://localhost:1313/PracticaHugo/markdown/sintaxis/</loc>
     <lastmod>2024-12-09T16:14:03+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/lenguaje/</loc>
+    <loc>http://localhost:1313/PracticaHugo/lenguaje/</loc>
     <lastmod>2024-12-09T16:13:23+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hobbies/</loc>
+    <loc>http://localhost:1313/PracticaHugo/hobbies/</loc>
     <lastmod>2024-12-09T16:13:11+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/presentacion/</loc>
+    <loc>http://localhost:1313/PracticaHugo/presentacion/</loc>
     <lastmod>2024-12-09T16:12:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/PracticaHugo/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/PracticaHugo/tags/</loc>
   </url>
 </urlset>
