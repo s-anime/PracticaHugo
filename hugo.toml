@@ -1,8 +1,8 @@
-baseURL = 'https://<s-anime>.github.io/PraticaHugo/'
+baseURL = 'http://localhost:1313/'
 languageCode = 'es-es'
 title = 'Practicando con Hugo'
 publishDir = "docs"
-theme = ["themes/hello-friend-ng"]
+theme = "/hello-friend-ng"
 
 [params]
 backgroundImage = "/images/Fondo.jpg"

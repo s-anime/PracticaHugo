@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Practicando con Hugo</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Practicando con Hugo</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Mon, 09 Dec 2024 20:35:37 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Animes</title>
+      <link>http://localhost:1313/animes/animes/</link>
+      <pubDate>Mon, 09 Dec 2024 20:35:37 +0100</pubDate>
+      <guid>http://localhost:1313/animes/animes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Características</title>
+      <link>http://localhost:1313/markdown/caracteristicas/</link>
+      <pubDate>Mon, 09 Dec 2024 16:14:35 +0100</pubDate>
+      <guid>http://localhost:1313/markdown/caracteristicas/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;¿Qué es Markdown?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Markdown es un lenguaje de marcado ligero diseñado para escribir texto fácil de leer y editar, que se puede convertir en HTML estructurado y bien formateado.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Características de Markdown:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Simplicidad:&lt;/strong&gt; Markdown usa símbolos comunes del teclado como #, *, y _ para dar formato al texto, evitando la necesidad de aprender etiquetas complicadas como en HTML.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Legibilidad:&lt;/strong&gt; Un archivo Markdown sin procesar es fácil de leer, incluso para alguien sin experiencia en lenguajes de marcado.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Portabilidad:&lt;/strong&gt; Markdown se puede convertir fácilmente a otros formatos como HTML, PDF o DOCX.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Soporte amplio:&lt;/strong&gt; Muchas herramientas modernas, como GitHub, GitLab, Hugo, Jekyll y aplicaciones como Notion, Discord y Slack, soportan Markdown.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Sintaxis</title>
+      <link>http://localhost:1313/markdown/sintaxis/</link>
+      <pubDate>Mon, 09 Dec 2024 16:14:03 +0100</pubDate>
+      <guid>http://localhost:1313/markdown/sintaxis/</guid>
+      <description>&lt;h2 id=&#34;encabezados&#34;&gt;Encabezados&lt;/h2&gt;&#xA;&lt;p&gt;Las # almohadillas son uno de los métodos utilizados en Markdown para crear encabezados. Debes usarlos añadiendo uno por cada nivel.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# Encabezado Nivel 1&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## Encabezado Nivel 2&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### Encabezado Nivel 3&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#### Encabezado Nivel 4&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Se visualiza como:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;encabezado-nivel-1&#34;&gt;Encabezado Nivel 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;encabezado-nivel-2&#34;&gt;Encabezado Nivel 2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;encabezado-nivel-3&#34;&gt;Encabezado Nivel 3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;encabezado-nivel-4&#34;&gt;Encabezado Nivel 4&lt;/h4&gt;&#xA;&lt;h2 id=&#34;listas&#34;&gt;Listas&lt;/h2&gt;&#xA;&lt;p&gt;A diferencia de lo que ocurre en HTML, generar listas en Markdown es tremendamente sencillo. Se pueden encontrar de dos tipos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lenguaje</title>
+      <link>http://localhost:1313/lenguaje/</link>
+      <pubDate>Mon, 09 Dec 2024 16:13:23 +0100</pubDate>
+      <guid>http://localhost:1313/lenguaje/</guid>
+      <description>&lt;h3 id=&#34;qué-es-python&#34;&gt;&lt;strong&gt;¿Qué es Python?&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Python es un lenguaje de programación de alto nivel, interpretado y de propósito general. Es conocido por su sintaxis simple y legible, lo que lo hace ideal para principiantes y profesionales. Se usa en una amplia gama de aplicaciones, desde desarrollo web, ciencia de datos, inteligencia artificial, hasta automatización de tareas.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Características principales:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Fácil de aprender y leer: Su sintaxis es limpia y cercana al lenguaje humano.&lt;/li&gt;&#xA;&lt;li&gt;Multipropósito: Puede usarse para muchos tipos de aplicaciones.&lt;/li&gt;&#xA;&lt;li&gt;Extensibilidad: Tiene una enorme cantidad de bibliotecas (como NumPy, Pandas, Django, etc.).&lt;/li&gt;&#xA;&lt;li&gt;Multiplataforma: Funciona en Windows, macOS y Linux.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ejemplo más básico: Imprimir &amp;ldquo;Hola, mundo&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hobbies</title>
+      <link>http://localhost:1313/hobbies/</link>
+      <pubDate>Mon, 09 Dec 2024 16:13:11 +0100</pubDate>
+      <guid>http://localhost:1313/hobbies/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;La Naturaleza: Mi Escapatoria Perfecta&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Siempre he sentido una profunda conexión con la naturaleza. Me encanta explorar senderos, sentir el aire fresco en la montaña, y perderme en los sonidos de los pájaros. La naturaleza me da paz, me inspira y me recuerda lo hermoso que es el mundo. Ya sea caminando por un bosque o simplemente sentándome en un parque, siempre encuentro algo nuevo que me llena de energía.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Presentación</title>
+      <link>http://localhost:1313/presentacion/</link>
+      <pubDate>Mon, 09 Dec 2024 16:12:50 +0100</pubDate>
+      <guid>http://localhost:1313/presentacion/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;¡Hola a todos! Soy Clara&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;¡Encantada de conoceros! 😊 Me llamo Clara, tengo 30 años y soy de Zaragoza, una ciudad hermosa llena de historia y vida en el corazón de España. Estoy en un momento muy emocionante de mi vida porque he decidido lanzarme de lleno en el mundo del desarrollo de aplicaciones web. Aquí os cuento un poco sobre mí:&lt;/p&gt;&#xA;&lt;h3 id=&#34;un-poco-sobre-mí&#34;&gt;Un Poco Sobre Mí&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;¿De dónde vengo?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Nací y crecí en Zaragoza, una ciudad con la imponente Basílica del Pilar, deliciosas tapas, y un ambiente acogedor. Adoro pasear por el Ebro al atardecer y perderme por las calles del casco histórico.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
