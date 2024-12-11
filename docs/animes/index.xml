@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animes on Practicando con Hugo</title>
-    <link>http://localhost:1313/PracticaHugo/animes/</link>
+    <link>https://s-anime.github.io/PracticaHugo/animes/</link>
     <description>Recent content in Animes on Practicando con Hugo</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 09 Dec 2024 20:35:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/PracticaHugo/animes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://s-anime.github.io/PracticaHugo/animes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Animes</title>
-      <link>http://localhost:1313/PracticaHugo/animes/animes/</link>
+      <link>https://s-anime.github.io/PracticaHugo/animes/animes/</link>
       <pubDate>Mon, 09 Dec 2024 20:35:37 +0100</pubDate>
-      <guid>http://localhost:1313/PracticaHugo/animes/animes/</guid>
+      <guid>https://s-anime.github.io/PracticaHugo/animes/animes/</guid>
       <description></description>
     </item>
   </channel>

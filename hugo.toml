@@ -4,7 +4,7 @@ title = 'Practicando con Hugo'
 publishDir = "docs"
 theme = "/hello-friend-ng"
 [params]
-backgroundImage = "/images/Fondo.jpg"
+backgroundImage = "/PracticaHugo/images/Fondo.jpg"
 
 [[Menu]]
 [[menu.main]]
