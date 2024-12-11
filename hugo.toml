@@ -10,25 +10,25 @@ backgroundImage = "/images/Fondo.jpg"
 [[menu.main]]
 name="Lenguaje"
 identifier="Lenguaje"
-url="/Lenguaje/"
+url="/PracticaHugo/Lenguaje/"
 weight=4
 
 [[menu.main]]
 name="Hobbies"
 identifier="Hobbies"
-url="/Hobbies/"
+url="/PracticaHugo/Hobbies/"
 weight=3
 
 [[menu.main]]
 name="Markdown"
 identifier="Markdown"
-url="/Markdown/"
+url="/PracticaHugo/Markdown/"
 weight=2
 
 [[menu.main]]
 name="Presentación"
 identifier="Presentacion"
-url="/Presentacion/"
+url="/PracticaHugo/Presentacion/"
 weight=1
 
 
