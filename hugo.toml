@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://s-anime.github.io/PracticaHugo/'
 languageCode = 'es-es'
 title = 'Practicando con Hugo'
 publishDir = "docs"
