@@ -1,0 +1,3 @@
+# Ignorar carpetas generadas por Hugo
+public/
+resources/

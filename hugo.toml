@@ -3,7 +3,7 @@ languageCode = 'es-es'
 title = 'Practicando con Hugo'
 publishDir = "docs"
 theme = "/hello-friend-ng"
-
+publishDir = "docs"
 [params]
 backgroundImage = "/images/Fondo.jpg"
 
